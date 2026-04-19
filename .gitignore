@@ -10,4 +10,4 @@ env/
 .ipynb_checkpoints/
 data/
 *.csv
-!student_performance_1500.csv
+!student_data.csv
